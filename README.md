@@ -1,1 +1,1 @@
-# project-nlw
+# project-nlw-esports-explorer
